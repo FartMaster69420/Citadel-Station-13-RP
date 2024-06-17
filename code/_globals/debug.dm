@@ -1,1 +1,0 @@
-GLOBAL_VAR_INIT(Debug2, FALSE)

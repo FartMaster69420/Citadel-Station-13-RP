@@ -1,1 +1,0 @@
-// no talents exist yet
